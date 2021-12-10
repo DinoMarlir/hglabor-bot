@@ -1,6 +1,6 @@
  ![logo](https://cdn.discordapp.com/icons/777536797601300490/a_218962067dff5e3a7ed3b0a1174367d5.webp?size=256)
 
-![discord](https://img.shields.io/discord/777536797601300490)
+![discord](https://img.shields.io/discord/718457297143070851)
 ![open issues](https://img.shields.io/github/issues/HGLabor/hglabor-bot)
 # HGLabor Bot
 
